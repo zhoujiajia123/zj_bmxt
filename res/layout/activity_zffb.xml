@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+  <LinearLayout 
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+	  android:layout_height="50dp"
+	  android:background="@color/pink"
+      >
+	    <TextView 
+	        android:layout_marginLeft="30dp"
+	        android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:text="填写房屋信息"
+	    	android:textSize="20sp"
+	    	android:layout_gravity="center"
+	    	android:gravity="center"
+	        />
+	    <ImageButton 
+	        android:id="@+id/tijiao"
+	        android:layout_marginLeft="100dp"
+	        android:layout_width="30dp"
+	    	android:layout_height="30dp"
+	   		android:background="@drawable/tijiao"
+	    	android:layout_gravity="center"
+	    	android:gravity="center"
+	        />
+	    <TextView 
+	        android:layout_marginLeft="10dp"
+	        android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:text="提交"
+	    	android:textSize="15sp"
+	    	android:layout_gravity="center"
+	    	android:gravity="center"
+	        />
+    </LinearLayout>
+    
+  <LinearLayout 
+      android:layout_marginTop="20dp"
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+	  android:layout_height="90dp"
+	  android:background="@drawable/fabutp"
+      >
+	    
+      
+      <TextView 
+	        android:layout_marginLeft="30dp"
+	        android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:text="添加图片"
+	    	android:textSize="15sp"
+	    	android:layout_gravity="center"
+	    	android:gravity="center"
+	        />
+      <ImageButton
+          	android:id="@+id/picktu" 
+          	android:layout_marginLeft="30dp"
+	        android:layout_width="30dp"
+	    	android:layout_height="30dp"
+	    	android:layout_gravity="center"
+	    	android:gravity="center"
+	    	android:background="@drawable/jiahao"
+          />
+      <ImageView 
+          	android:id="@+id/gettu"
+            android:layout_marginLeft="50dp"
+	        android:layout_width="50dp"
+	    	android:layout_height="30dp"
+	    	android:layout_gravity="center"
+	    	android:gravity="center"
+	    	android:onClick="true"
+          />
+      
+  </LinearLayout>
+  		
+
+	    <ListView
+	        android:id="@+id/flv"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:layout_marginTop="10dp"
+	        android:dividerHeight="1dp" >	        
+	
+	    </ListView>
+    
+    
+     
+   
+</LinearLayout>

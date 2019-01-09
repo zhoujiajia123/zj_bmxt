@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">便民系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quanbu">&#xe650;</string>
+    <string name="xinxi">&#xe60f;</string>
+    <string name="zhaopin">&#xe624;</string>
+    <string name="ziyezige">&#xe6c6;</string>
+    <string name="zufang">&#xe611;</string>
+    <string name="lvyou">&#xe63a;</string>
+    <string name="jiaoyu">&#xe632;</string>
+    <string name="qita">&#xe612;</string>
+    <string name="title_activity_selfinfo">Selfinfo</string>
+    <string name="title_activity_zige">Zige</string>
+    <string name="title_activity_detailinfo">Detailinfo</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_zufang">Zufang</string>
+    <string name="title_activity_zf_1">Zf_1</string>
+    <string name="title_activity_zffb">Zffb</string>
+    <string name="title_activity_forget_psw">Forget_psw</string>
+    <string name="title_activity_travel">Travel</string>
+    <string name="title_activity_school">School</string>
+    <string name="title_activity_travelview">Travelview</string>
+    <string name="title_activity_diffschool">Diffschool</string>
+    <string name="title_activity_zhaopin">Zhaopin</string>
+    <string name="title_activity_providejob">Providejob</string>
+    <string name="title_activity_getjob">Getjob</string>
+    <string name="title_activity_getjobview">Getjobview</string>
+    <string name="title_activity_changepassword">Changepassword</string>
+    <string name="title_activity_eachjob">Eachjob</string>
+    <string name="title_activity_schoolview">Schoolview</string>
+    <string name="title_activity_addresume">Addresume</string>
+    <string name="title_activity_myresume">Myresume</string>
+    <string name="title_activity_myzhaopin">Myzhaopin</string>
+    <string name="title_activity_touzhaopin">Touzhaopin</string>
+    <string name="title_activity_touzhaopin1">Touzhaopin1</string>
+    <string name="title_activity_shouzhaopin">Shouzhaopin</string>
+    <string name="title_activity_gaizhaopin">Gaizhaopin</string>
+    <string name="title_activity_gaizhaopin1">Gaizhaopin1</string>
+    <string name="title_activity_myzufang">Myzufang</string>
+    <string name="title_activity_myzufang1">Myzufang1</string>
+    <string name="title_activity_firstmap">Firstmap</string>
+    <string name="title_activity_mymap">Mymap</string>
+    <string name="title_activity_detailbusline">Detailbusline</string>
+    <string name="title_activity_showpicture">Showpicture</string>
+
+</resources>
